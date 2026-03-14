@@ -66,6 +66,10 @@ python robustness_analyses.py
 - NumPy, pandas, SciPy, matplotlib
 - python-docx (for manuscript generation only)
 
+## AI Disclosure
+
+Claude (Anthropic) was used as a programming assistant during pipeline development, manuscript formatting, and code review. All analytical decisions, methodology design, data interpretation, and scientific conclusions are solely the work of the author.
+
 ## Citation
 
 If you use this code, please cite:
