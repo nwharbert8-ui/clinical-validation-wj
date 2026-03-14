@@ -1,0 +1,9 @@
+data/
+results/
+figures/
+__pycache__/
+*.pyc
+.env
+*.csv
+*.xlsx
+*.docx
