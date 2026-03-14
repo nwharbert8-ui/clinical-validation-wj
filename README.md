@@ -1,6 +1,6 @@
 # Weighted Jaccard Similarity Detects Organ-System Deterioration Cascades Where Binary Jaccard Fails
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.ZENODO_DOI.svg)](https://doi.org/10.5281/zenodo.ZENODO_DOI)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19019981.svg)](https://doi.org/10.5281/zenodo.19019981)
 
 **Author:** Drake H. Harbert (D.H.H.)
 **Affiliation:** Inner Architecture LLC, Canton, OH
